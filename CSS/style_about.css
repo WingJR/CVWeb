@@ -1,0 +1,108 @@
+hr{
+  border:dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.Nagition ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: none;
+}
+
+.Nagition li {
+  float: left;
+}
+
+.Nagition li a {
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Nagition li a:hover {
+  background-color: pink;
+  color: white;
+}
+
+.bottom-container{
+background-color: pink;
+}
+
+a{
+  color: red;
+  font-family: fantasy;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:white;
+}
+
+.copyright{
+  color: white;
+}
+
+body{
+  margin:0;
+  text-align:center;
+  font-size:1em;
+}
+
+h2{
+  font-weight:normal;
+  color:pink;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  padding-bottom: 10px;
+}
+
+h3{
+  color:pink;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-Programming{
+  width:100px;
+  float:left;
+  margin-right:30px;
+}
+
+.icon-3D{
+  width:100px;
+  float:right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width:65%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Skill_sum{
+  width:65%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill_border{
+  font-style: italic;
+}
